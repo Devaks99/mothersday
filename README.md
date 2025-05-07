@@ -18,8 +18,8 @@ Ideal para ser compartilhado como homenagem ou lembrança digital neste Dia das 
 ## 🛠️ Tecnologias Utilizadas
 
 - HTML5  
-- CSS3 (com animações e responsividade)  
-- JavaScript (para interatividade e efeitos especiais)
+- CSS3 
+- JavaScript 
 
 ---
 
